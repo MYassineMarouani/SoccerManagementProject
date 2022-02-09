@@ -1,5 +1,5 @@
 # SoccerManagementProject
-This a Soccer management CRUD web application built with Angular&Springboot 
+.This a Soccer management CRUD web application built with Angular&Springboot 
 all you need to run this project : 
 1) Download The Frontend & Backend Files uploaded
 2) Download Spring Tools Suite 
